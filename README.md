@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Marcelo Borges :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rodrigues-borges/)](https://www.linkedin.com/in/marcelo-rodrigues-borges/)
+[![Linkedin Badge] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rodrigues-borges/)](https://www.linkedin.com/in/marcelo-rodrigues-borges/)
 
 ### Olá! 👋 Bem vindo ao meu perfil
 
