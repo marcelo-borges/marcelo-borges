@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Marcelo Borges :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rodrigues-borges/)](https://www.linkedin.com/in/marcelo-rodrigues-borges/)
+
+### Olá! 👋 Bem vindo ao meu perfil
+
+Meu nome é Marcelo Borges e ...:
+
+ - 😄 Eu gosto muito de aprender, principalmente novas tecnologias web/mobile
+ - 📊 Atualmente estou trabalhando como Programador Delphi
+ - 📚 Estudando Node JS, React e React Native.
+ - 🌍 Gosto de viajar, pedalar, internet...
+
