@@ -27,5 +27,5 @@ Meu nome é Marcelo Borges e ...:
  - 😄 Eu gosto muito de aprender, principalmente novas tecnologias web/mobile
  - 📊 Atualmente estou trabalhando como Programador Delphi
  - 📚 Estudando Node JS, React e React Native.
- - 🌍 Gosto de viajar, pedalar, internet...
+ - 🌍 Gosto de viajar, pedalar é minha paixão, internet é a porta para encontrar tudo que necessito...
 
