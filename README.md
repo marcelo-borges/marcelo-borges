@@ -33,8 +33,4 @@ Meu nome é Marcelo Borges e sou um entusiasta da tecnologia!
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-
-[![Seus status no GitHub](https://github-readme-stats.vercel.app/api?username=marcelo-borges&show_icons=true&theme=dracula)](https://github.com/marcelo-borges)
-
 ⭐ "O conhecimento é a única coisa que ninguém pode tirar de você."
