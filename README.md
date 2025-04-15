@@ -1,36 +1,38 @@
-# Marcelo Borges :man_technologist:
+Marcelo Borges 👨‍💻
+LinkedIn
+Gmail
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-rodrigues-borges/)](https://www.linkedin.com/in/marcelo-rodrigues-borges/)
+👋 Sobre Mim
+javascript
+Copy
+const marcelo = {
+  nome: "Marcelo Borges",
+  cargo: "Desenvolvedor Full Stack",
+  stack: ["Mobile", "Frontend", "Backend"],
+  tecnologias: {
+    mobile: ["Flutter", "React Native"],
+    frontend: ["React", "TypeScript"],
+    backend: ["Node.js", "PHP", "Laravel"],
+    databases: ["SQL Server", "PostgreSQL", "MongoDB"],
+    devops: ["Docker", "CI/CD"],
+    metodologias: ["Scrum", "Kanban"]
+  },
+  hobbies: ["🚴 Ciclismo", "✈️ Viagens", "📚 Aprendizado contínuo"]
+};
+🛠️ Tecnologias
+Mobile Development
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"> </div>
+Frontend
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> </div>
+Backend
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> </div>
+Bancos de Dados
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> </div>
+📈 Estatísticas GitHub
+<div style="display: flex; gap: 20px; flex-wrap: wrap;"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"> </div>
+🏆 Troféus GitHub
+Troféus GitHub
 
-### Olá! 👋 Bem-vindo ao meu perfil
-
-Meu nome é Marcelo Borges e sou um entusiasta da tecnologia!
-
-- 😄 Apaixonado por aprender, especialmente novas tecnologias web/mobile
-- 💻 Atualmente trabalhando como **Programador FullStack**
-- 🌍 Adoro viajar e pedalar é minha grande paixão
-- 🔍 Acredito que a internet é a porta para encontrar tudo que precisamos
-
-## 🛠 Habilidades Técnicas
-
-**Mobile & Frontend:**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-
-**Backend & API:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Desktop (Windows):**  
-![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
-
-**Banco de Dados:**  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Firebird](https://img.shields.io/badge/-Firebird-FF1A00?style=flat-square&logo=firebird&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-⭐ "O conhecimento é a única coisa que ninguém pode tirar de você."
+📫 Contato
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <a href="https://www.linkedin.com/in/marcelo-rodrigues-borges/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=seuusername&label=Profile%20views&color=0e75b6&style=flat" alt="seuusername" /> </p>
+💡 "O conhecimento é a única coisa que ninguém pode tirar de você."
