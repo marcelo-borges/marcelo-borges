@@ -12,7 +12,7 @@ Sou **Marcelo Borges**, um desenvolvedor **Full Stack** apaixonado por tecnologi
 ## 💬 Sobre mim
 
 - 💻 Atualmente trabalho como **Desenvolvedor Full Stack**
-- 🚀 Foco em desenvolvimento **Mobile** (Flutter/React Native) e **Web** (React/Node)
+- 🚀 Foco em desenvolvimento **Mobile** (Flutter/React Native) e **Web** (React/Node/Php)
 - 📚 Constantemente aprendendo novas tecnologias
 - 🚴‍♂️ Apaixonado por ciclismo e viagens
 - 🌐 Acredito no poder da **tecnologia para impactar positivamente a sociedade**
