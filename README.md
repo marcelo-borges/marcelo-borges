@@ -1,7 +1,7 @@
 # 👨‍💻 Marcelo Borges
 
 [![LinkedIn](https://img.shields.io/badge/-Marcelo%20Borges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seulinkedin/)](https://www.linkedin.com/in/marcelo-rodrigues-borges/)
-[![Gmail](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marcelo.ro.borges@gmail.com)
+[![Gmail](https://img.shields.io/badge/-marcelo.ro.borges@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:marcelo.ro.borges@gmail.com)
 
 ## 👋 Olá! Seja bem-vindo ao meu perfil
 
