@@ -61,13 +61,6 @@ Sou **Marcelo Borges**, um desenvolvedor **Full Stack** apaixonado por tecnologi
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Marcelo Borges GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact)
-
----
-
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/marcelo-rodrigues-borges/)  
